@@ -8,8 +8,6 @@ The Qt toolkit (**version >= 5.7**) is required to compile this version (**5.0.3
 * `gcc-c++`
 * `qt5`
 * `qt5-devel`
-* `qt5-qtbase`
-* `qt5-qtbase-devel`
 * `poppler`
 * `poppler-qt5`
 * `poppler-qt5-devel`
