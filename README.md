@@ -13,7 +13,7 @@ The Qt toolkit (**version >= 5.7**) is required to compile this version (**5.0.3
 * `poppler-qt5-devel`
 * `ghostscript`
 
-[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/955l78bDlFA/0.jpg)](https://www.youtube.com/watch?v=955l78bDlFA)
+[![IMAGE ALT TEXT HERE](https://raw.githubusercontent.com/ChemBioScripting/TeXmaker/master/YouTube/copertina.png)](https://www.youtube.com/watch?v=955l78bDlFA)
 
 The source-code can be compiled with `gcc`, `clang` and `msvc`.
 
