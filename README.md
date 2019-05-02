@@ -13,7 +13,7 @@ The Qt toolkit (**version >= 5.7**) is required to compile this version (**5.0.3
 * `poppler-qt5-devel`
 * `ghostscript`
 
-_<(embedded video - to be added)>_
+<iframe width="560" height="315" src="https://www.youtube.com/embed/955l78bDlFA" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 The source-code can be compiled with `gcc`, `clang` and `msvc`.
 
