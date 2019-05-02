@@ -2,7 +2,7 @@
 Fork of the [Official TeXmaker Source Code](http://www.xm1math.net/texmaker/download.html).
 -------------------------------------------------------------------------------------------
 
-The Qt toolkit (**version >= 5.7**) is required to compile this version (**5.0.3**) of TeXmaker, together with other packages.
+The Qt toolkit (**version >= 5.7**) is required to compile the **version 5.0.3** of TeXmaker, together with other packages.
 
 On  [Fedora Linux](https://getfedora.org/) distribution, for example, you will need to install the following packages, as described in the [videotutorial](https://youtu.be/955l78bDlFA) uploaded on [ChemBioScripting | YITA YouTube channel](https://www.youtube.com/channel/UCezPdWWrwIexD96fYNgO4pA):
 
