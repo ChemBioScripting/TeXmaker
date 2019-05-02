@@ -1,8 +1,14 @@
-Requirements : 
-Qt tool kit >=5.7
+# Requirements:
+gcc, gcc-c++
+qt5, qt5-devel (Qt toolkit >=5.7)
+poppler, poppler-qt5, poppler-qt5-devel
+ghostscript (for the LaTeX to html conversion command).
 
-To compile texmaker :
-qmake texmaker.pro
-make
+# To compile and install TeXmaker (Unix and MacosX) :
+sudo sh BUILD.sh
+(you must have root password)
 
-or use QtCreator 
+or use QtCreator.
+
+# Videotutorial:
+https://youtu.be/955l78bDlFA
